@@ -1,0 +1,47 @@
+10000
+10000
+Array element 4 moved to 4
+10000 to 100000
+Previous array element 4 moved to 4
+10000
+01000
+Array element 4 moved to 3
+01000 to 10000
+Previous array element 3 moved to 3
+01000 to 100000
+Previous array element 3 moved to 4
+10000
+00100
+Array element 4 moved to 2
+00100 to 01000
+Previous array element 2 moved to 2
+00100 to 10000
+Previous array element 2 moved to 3
+00100 to 100000
+Previous array element 2 moved to 4
+10000
+00010
+Array element 4 moved to 1
+00010 to 00100
+Previous array element 1 moved to 1
+00010 to 01000
+Previous array element 1 moved to 2
+00010 to 10000
+Previous array element 1 moved to 3
+00010 to 100000
+Previous array element 1 moved to 4
+10000
+00001
+Array element 4 moved to 0
+00001 to 00010
+Previous array element 0 moved to 0
+00001 to 00100
+Previous array element 0 moved to 1
+00001 to 01000
+Previous array element 0 moved to 2
+00001 to 10000
+Previous array element 0 moved to 3
+00001 to 100000
+Previous array element 0 moved to 4
+
+[Program finished]
